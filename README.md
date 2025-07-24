@@ -1,4 +1,4 @@
-# 🔗 Consume REST API (GET)
+# 🔗 Consume REST API (GET) in OutSystems
 
 This guide shows how to integrate with a REST Web Service to retrieve data from an external system. We'll use the GET method to read contact information from the Contacts API and display that data in our application.
 
