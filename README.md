@@ -1,4 +1,4 @@
-# 🔗 REST Contacts API Integration - Complete Guide
+# 🔗 Consume REST API (GET)
 
 This guide shows how to integrate with a REST Web Service to retrieve data from an external system. We'll use the GET method to read contact information from the Contacts API and display that data in our application.
 
@@ -191,3 +191,7 @@ The integration demonstrates how to consume a single method of a REST API and di
 | Screen Display | Shows contact information to users | Interface Tab > Screens |
 
 > ✅ **Success!** You now have a fully functional REST API integration that retrieves and displays contact data from an external source.
+
+## 🌐 Access the App
+
+You can access the app here: [REST Contacts App](https://odc-trial-e3405-dev.outsystems.app/RESTContacts/Contacts?_ts=638890059700951010)
